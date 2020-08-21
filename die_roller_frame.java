@@ -19,9 +19,9 @@ public class die_roller_frame extends Frame{
 	Label title = new Label("Mr. Anton's FLAWLESS Dice Roller", Label.CENTER);
 	Label diceSelector = new Label("Select Dice Type", Label.CENTER);
 	Label currDiceTitle = new Label("Current Dice Type", Label.CENTER);
-	Label currDice = new Label("", Label.CENTER);
+	Label currDice = new Label("d20", Label.CENTER);
 	Label numberOfRolls = new Label("Number of Times", Label.CENTER);
-	Label currNumber = new Label("", Label.CENTER);
+	Label currNumber = new Label("1", Label.CENTER);
 	Label selectAmount = new Label("Select # of Rolls", Label.CENTER); 
 	Label currentRoll = new Label("Current Full Roll", Label.CENTER);
 	Label results = new Label("Roll Results", Label.CENTER);
